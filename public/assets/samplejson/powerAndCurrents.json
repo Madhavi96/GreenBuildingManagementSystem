@@ -1,0 +1,18 @@
+{
+  "ac": {
+    "power": "120",
+    "current": "60"
+  },
+  "tv": {
+    "power": "12",
+    "current": "10"
+  },
+  "nescafe": {
+    "power": "20",
+    "current": "15"
+  },
+  "light": {
+    "power": "12",
+    "current": "10"
+  }
+}
